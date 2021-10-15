@@ -1,8 +1,9 @@
 {
-    "name": "laravel/passport",
+    "name": "emanuel/passport",
     "description": "Laravel Passport provides OAuth2 server support to Laravel.",
     "keywords": ["laravel", "passport", "oauth"],
     "license": "MIT",
+    "homepage": "https://github.com/laravel/passport",
     "support": {
         "issues": "https://github.com/laravel/passport/issues",
         "source": "https://github.com/laravel/passport"
